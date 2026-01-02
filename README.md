@@ -101,7 +101,7 @@ See `docs/data-privacy.md`.
 
 MIT License
 
-Copyright (c) 2026- Quang Hung Tran 
+Copyright (c) 2026-Quang Hung Tran 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
