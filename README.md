@@ -13,25 +13,31 @@ Python desktop application for Raman/SERS spectrum processing end-to-end:
 ## Demo
 
 - 🎥 Demo video (60–90s): [link here]
+
 - 🖼️ Screenshots:
 **1) Main workflow (batch + single-file support)**  
 Load a folder of Raman/SERS CSV spectra, optionally select a subset, configure preprocessing (baseline, smoothing, normalization) and QC regions, then run overlay plots or export Excel reports.
+
 ![Main UI](assets/screenshots/01_main_batch.png)
 
 **2) Robust metadata extraction + manual correction**  
 Messy filenames are parsed into structured metadata (sample, concentration, salt, laser, objective, integration time, etc.). Double-click any cell to correct values and save overrides for reproducible re-runs.
+
 ![Metadata editor](assets/screenshots/02_metadata_editor.png)
 
 **3) Publication-style overlay plot (processed spectra)**  
 Batch overlay plot after preprocessing (baseline correction + smoothing + normalization). Useful for quick comparison across conditions and replicates.
+
 ![Batch overlay plot (processed)](assets/screenshots/03_overlay_plot.png)
 
 **4) Excel export with Excel-native charts**  
 Exports a multi-sheet workbook containing processed spectra and an Excel-native chart, so collaborators can adjust formatting directly in Excel without Python.
+
 ![Excel export (Excel-native chart)](assets/screenshots/04_excel_export.png)
 
 **5) QC summary (noise / signal / SNR)**  
 Automatically computes QC metrics per spectrum (noise, signal, SNR) and writes a batch summary table alongside key metadata to support consistent acceptance criteria.
+
 ![QC summary (noise / signal / SNR)](assets/screenshots/05_qc_summary.png)
 ---
 
