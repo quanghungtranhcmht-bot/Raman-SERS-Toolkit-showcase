@@ -14,10 +14,11 @@ Python desktop application for Raman/SERS spectrum processing end-to-end:
 
 - 🎥 Demo video (60–90s): [link here]
 - 🖼️ Screenshots:
-  - `assets/screenshots/ui_main.png`
-  - `assets/screenshots/overlay_plot.png`
-  - `assets/screenshots/metadata_editor.png`
-  - `assets/screenshots/excel_export.png`
+![Main UI](assets/screenshots/01_main_batch.png)
+![Metadata editor](assets/screenshots/02_metadata_editor.png)
+![Batch overlay plot (processed)](assets/screenshots/03_overlay_plot.png)
+![Excel export (Excel-native chart)](assets/screenshots/04_excel_export.png)
+![QC summary (noise / signal / SNR)](assets/screenshots/05_qc_summary.png)
 
 ---
 
