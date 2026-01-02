@@ -15,6 +15,7 @@ Python desktop application for Raman/SERS spectrum processing end-to-end:
 - 🎥 Demo video (60–90s): [link here]
 
 - 🖼️ Screenshots:
+
 **1) Main workflow (batch + single-file support)**  
 Load a folder of Raman/SERS CSV spectra, optionally select a subset, configure preprocessing (baseline, smoothing, normalization) and QC regions, then run overlay plots or export Excel reports.
 
