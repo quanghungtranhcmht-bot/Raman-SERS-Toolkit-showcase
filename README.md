@@ -53,6 +53,10 @@ Python desktop application for Raman/SERS spectrum processing end-to-end:
 ### Deployment
 - Can be packaged as a Windows standalone `.exe` (PyInstaller)
 
+### Tech
+- UI: Tkinter
+- Core: NumPy/SciPy + matplotlib
+- Export: Excel writer (xlsxwriter) 
 ---
 
 ## Try the demo (no code needed)
