@@ -12,7 +12,7 @@ Python desktop application for Raman/SERS spectrum processing end-to-end:
 
 ## Demo
 
-- 🎥 Demo video (60–90s): [link here]
+- 🎥 Demo video: (https://youtu.be/jYX_Y3pQTu4)
 
 - 🖼️ Screenshots:
 
@@ -83,13 +83,11 @@ Automatically computes QC metrics per spectrum (noise, signal, SNR) and writes a
 ## Try the demo (no code needed)
 
 1) Download sample spectra from:
-- `examples/sample_data/`
+- examples/sample_data/Sample_data.csv
 
 2) View example outputs:
-- `examples/example_outputs/`
+- examples/example_output/example_output.xlsx
 
-3) (Optional) Request the demo build:
-- “Available upon request” (include what you want: `.exe` zip / walkthrough call)
 
 ---
 
