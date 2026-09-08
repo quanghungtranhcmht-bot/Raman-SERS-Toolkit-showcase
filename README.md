@@ -337,7 +337,5 @@ The current cleanup introduced:
 - discoverable unit tests for core non-GUI behavior
 - archived duplicate UI prototypes under `archive/old_ui/`
 
-This makes future features easier to add without duplicating logic between single and batch modes.
-
 ---
 
