@@ -22,6 +22,8 @@ The active UI uses:
 PySide6
 PyQtGraph
 
+There is also a packaged .exe file for user just to use it. 
+
 Older Tkinter UI files are archived/reference only and are not the active development target.
 
 ## Main features
