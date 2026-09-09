@@ -1,7 +1,7 @@
 
 # EC-SERS Analyzer
 
-**Current release: v2.1**
+**Current release: v0.2.1**
 
 EC-SERS Analyzer is an open-source Python desktop application for reproducible Raman, SERS, and electrochemical SERS (EC-SERS) data analysis.
 
