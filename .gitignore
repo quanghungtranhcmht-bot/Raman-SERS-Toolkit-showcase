@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build/package
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary output
+tmp/
+temp/
+outputs/
+exports/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated plots/workbooks
+*_processed.xlsx
+*_batch_processed.xlsx
+peak_intensity_table.csv
+ec_sers_plot.png
+
+# Local runtime data
+__pycache__/
+*.pyc
+data/user_history/*.jsonl
+data/spectral_library/
+*.pyo
+*.log
+.DS_Store
